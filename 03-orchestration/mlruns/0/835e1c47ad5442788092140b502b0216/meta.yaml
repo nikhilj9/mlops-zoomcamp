@@ -1,0 +1,15 @@
+artifact_uri: file:///workspaces/mlops-zoomcamp/03-orchestration/mlruns/0/835e1c47ad5442788092140b502b0216/artifacts
+end_time: 1749579399441
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 835e1c47ad5442788092140b502b0216
+run_name: bedecked-penguin-991
+run_uuid: 835e1c47ad5442788092140b502b0216
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1749579393967
+status: 3
+tags: []
+user_id: codespace

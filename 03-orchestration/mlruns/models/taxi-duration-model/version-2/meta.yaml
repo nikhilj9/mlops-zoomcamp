@@ -1,0 +1,14 @@
+aliases: []
+creation_timestamp: 1749579399433
+current_stage: None
+description: null
+last_updated_timestamp: 1749579399433
+name: taxi-duration-model
+run_id: 835e1c47ad5442788092140b502b0216
+run_link: null
+source: file:///workspaces/mlops-zoomcamp/03-orchestration/mlruns/0/835e1c47ad5442788092140b502b0216/artifacts/model
+status: READY
+status_message: null
+storage_location: file:///workspaces/mlops-zoomcamp/03-orchestration/mlruns/0/835e1c47ad5442788092140b502b0216/artifacts/model
+user_id: null
+version: 2
